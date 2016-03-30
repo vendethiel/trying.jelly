@@ -1,7 +1,9 @@
 Ḣ;L_¥2$;Ṫ
-Ç¹L>¥3$?
+ṣ⁶Ç¹L>¥3$?€j⁶
 
 
 
 The first link concatenates Head, Length-2 (we need ¥ because L_ is a dyad, and then with 2 applied it's a monad), Last.
-Then, it does an "if": either the previous line, or the identity function. The switch is "length > 3" (using the same dyad/monad trick).
+The second line has an inner part, per-element: "Ç¹L>¥3$?"
+  Then, it does an "if": either the previous line, or the identity function. The switch is "length > 3" (using the same dyad/monad trick).
+The outer part will split by space, apply ^ to each element (€) then join by space again.
