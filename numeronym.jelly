@@ -1,0 +1,7 @@
+Ḣ;L_¥2$;Ṫ
+Ç¹L>¥3$?
+
+
+
+The first link concatenates Head, Length-2 (we need ¥ because L_ is a dyad, and then with 2 applied it's a monad), Last.
+Then, it does an "if": either the previous line, or the identity function. The switch is "length > 3" (using the same dyad/monad trick).
