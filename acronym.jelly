@@ -1,0 +1,8 @@
+U=$E
+
+
+
+Reverse the string, and compare it with the original one. The second argument of `=` is implicitly the original value.
+We get an array of 1/0 (whether the element at N is the same as the one at length-N).
+Use `$` to transform those two atoms into only a monadic one, then check that every element is equal (1).
+(if we didn't use `$`, we'd get `(Uv)=(Ev)`)
