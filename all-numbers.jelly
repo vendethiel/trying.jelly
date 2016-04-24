@@ -1,0 +1,5 @@
+O⁼
+
+
+
+O (deeply) casts to int (no-op if the scalar is already an integer), then we compare the array.
