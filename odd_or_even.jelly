@@ -1,0 +1,6 @@
+“Odd”“Even”ḍ@2$?
+
+
+
+Use the ternary "?" (if). The first two operands are the strings, and the last operand is the flipped (@) version of "divisible by" (ḍ) 2.
+The $ is used to unify ḍ (flipped, the @ quick doesn't count as a link) with 2, and treat it as a monad.
