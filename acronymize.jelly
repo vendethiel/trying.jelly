@@ -1,8 +1,5 @@
-“.”
-ṣ⁶Ḣ€Œu€j¢¢ṭ
+ṣ⁶Ḣ€Œuj”.⁺ṭ
 
 
 
 From http://codegolf.stackexchange.com/questions/76761/write-a-program-to-fabricate-elaborate-acronyms/76762#76762
-Split by space, take the first of each, uppercase each, then join by previous link (dot) then append a dot.
-note: ṭ is actually "prepend y to x", so we pass as a nilad on the left, so that v gets passed on the right.
