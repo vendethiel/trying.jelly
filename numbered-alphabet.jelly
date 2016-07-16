@@ -1,3 +1,3 @@
 1r26żØaj⁷
 
-First, generate a range from 1 to 26, then zip it with the alphabet (see show_alpha), then join by ⁷ (newline)
+First, generate a range from 1 to 26, then zip it with the alphabet (see show-alpha), then join by ⁷ (newline)
