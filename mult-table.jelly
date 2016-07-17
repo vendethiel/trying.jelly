@@ -1,0 +1,7 @@
+R×'R}j€⁶j⁷
+
+
+
+' is the outer product by × (multiplication)
+of R (range, applied to 1st argument) and R} (transforms the R monad into a dyad that uses the 2nd argument)
+then "j"oin €ach (join sublists) by ⁶ (space), and join those strings by newline (⁷).
