@@ -1,0 +1,5 @@
+“Odd”“Even”Ḃ?
+
+
+
+Use the ternary "?" (if). The first two operands are the strings, and the last operand is "bit" (v % 2).
