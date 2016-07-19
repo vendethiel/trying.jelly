@@ -5,12 +5,3 @@
 þ is the outer product, applied with by × (multiplication).
 We only need to pass two numbers, and þ will make a range out of them both (on both sides of ×þ)
 then "j"oin €ach (join sublists) by ⁶ (space), and join those strings by newline (⁷).
-
-
-R×þR}j€⁶j⁷
-
-
-
-
-OLD used R (same explanation, but with this added):
-of R (range, applied to 1st argument) and R} (transforms the R monad into a dyad that uses the 2nd argument)
