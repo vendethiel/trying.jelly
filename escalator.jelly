@@ -1,0 +1,11 @@
+Rx@€”#j⁷
+
+
+
+Expects the number of iterations as input (N).
+R        Makes a range 1..N
+    ”#   And the character #
+ x       Repeat
+  @      Inverse operands (the character goes on the left)
+   €     Apply it for each element in the range
+      j⁷ Join with newline
