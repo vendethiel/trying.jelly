@@ -1,4 +1,4 @@
-Rx@€”#j⁷
+Rx@€”#Y
 
 
 
@@ -8,4 +8,4 @@ R        Makes a range 1..N
  x       Repeat
   @      Inverse operands (the character goes on the left)
    €     Apply it for each element in the range
-      j⁷ Join with newline
+      Y  Join with newline
